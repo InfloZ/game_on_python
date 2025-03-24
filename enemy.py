@@ -1,0 +1,3 @@
+#Враги
+def move_enemies(game_map, enemies):
+    pass  #Скоро...
